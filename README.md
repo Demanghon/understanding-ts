@@ -1,4 +1,6 @@
-# understanding-ts
+![TypeScript](https://img.shields.io/badge/TypeScript-4.4.3-lightgrey)
+
+# Understanding-ts ![Work in progress](http://www.repostatus.org/badges/latest/wip.svg)
 
 This project is the result of the work on the Udemy courses [Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/). 
 
